@@ -43,6 +43,27 @@
 			"name":"Daily Scrum"
 		},
 		{
+			"emoji":"✅",
+			"entity":"&#9989;",
+			"code":":white_check_mark:",
+			"description":"Daily Done",
+			"name":"Daily Done"
+		},
+		{
+			"emoji":"▶️",
+			"entity":"&#9654;&#x25B6;",
+			"code":":arrow_forward:",
+			"description":"Daily Doing Next",
+			"name":"Daily Doing Next"
+		},
+		{
+			"emoji":"🛑",
+			"entity":"&#128721;&#x1F6D1;",
+			"code":":stop_sign:",
+			"description":"Daily Blockers",
+			"name":"Daily Blockers"
+		},
+		{
 			"emoji":"🗂",
 			"entity":"&#128450;",
 			"code":":card_index_dividers:",
